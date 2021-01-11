@@ -1,4 +1,4 @@
-# Codenception.ETL (Extract Transform Load)
+# Codenception ETL (Extract Transform Load)
 
 🚧 Work in progress. It can't be used yet! 🚧
 
